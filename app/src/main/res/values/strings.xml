@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Digit Recognizer</string><string name="title">Handwritten Digit Recognizer</string>
+<string name="subtitle">Draw a digit and let the on-device model recognize it.</string>
+<string name="predict">Predict digit</string><string name="clear">Clear</string>
+<string name="result">PREDICTION</string><string name="confidence">Model confidence</string>
+<string name="placeholder">Draw a digit to get started</string><string name="offline">Runs privately on your device; no internet required</string>
+</resources>
